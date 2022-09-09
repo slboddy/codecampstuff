@@ -1,0 +1,102 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title id="title">Ching Shi</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+
+
+<body>
+  <main id="main">
+    <h1>Ching Shi: slender legend</h1>
+    <h2>Courageous stick insect</h2>
+    <div id="img-div">
+    <img src="https://github.com/slboddy/codecampstuff/blob/main/Ching%20Shi.jpeg?raw=true" id="image"/>
+    <figcaption id="img-caption">Noble stick insect, Ching Shi</figcaption>
+    </div>
+
+     <div id="tribute-info">
+    <ul class="center">
+      <li>late 2019 - Ching Shi and sisters hatch in Hunter's Bar</li>
+      <li>Jan 2020 - The stick insects move to SITrAN</li>
+      <li>Mar 2020 - COVID-19 lockdown, stickies move to Walkley
+        <li>Mar 2021 - Ching Shi passes away and is laid to rest in the rose garden</li>
+    </ul>
+   
+    <p>
+      Ching Shi was an Indian stick insect who lived an adventurous and varied life. She was born in Hunters Bar where she remained throughout her nymph-hood. As a young adult Ching Shi and her sisters moved to the Sheffield Institute for Translational Neuroscience (SITraN). Here they would calm the city's greatest minds with their serene activities. 
+      </p>
+      <p>Life was peaceful in SITraN, enjoying the local ivy and assisting in neurological research. However, the human world was thrown into fear and turmoil with the arrival of a new virus and Ching Shi's home was faced with lockdown. One evening in March 2020, Ching Shi and her sisters were wisked away to safety and a new home in Walkley. It was here that the stick insects had their first taste of what was to become their favourite food.. brambles! Ching Shi and the other stickies lived out their days eating their fill of brambles, occasionally joining a neuroscience meeting (to keep abreast of developments in the field) and enjoying their enormous enclosure. 
+    </p>
+    <p> Ching Shi was an inspirational creature. She was strong willed and independent, much like the fearsome pirate whom she was named after! Her exact age is unknown, but she was at least 15 months old when she died. As her life expectancy was 12-14 months she was a grand old lady and a true legend of stickidom!</p>
+</div>
+
+    <h3>You can learn about Indian stick insects <a href="https://en.wikipedia.org/wiki/Carausius_morosus" target="_blank" id="tribute-link">here<a></h3>
+    <h3>If you have time, check out this <a href="https://www.bbc.co.uk/programmes/p0b6df21" target="_blank">podcast</a> the Pirate Queen of China, Ching Shi</h3>
+  </main>
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1, h2, figcaption, h3 {
+  font-family:  "Trebuchet MS", Helvetica, sans-serif;;
+  text-align: center;
+}
+
+h1 {
+  font-size: 300%
+}
+
+h2 {
+  font-size: 140%;
+  font-style: italic;
+  font-weight: lighter;
+}
+
+main {
+  color: black;
+  background-color: E6FFE6;
+}
+
+body {
+  background-color: E6FFE6;
+}
+
+
+img {
+  max-width: 500px;
+  height: auto;
+  object-fit: scale-down;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul.center{
+    width:500px;
+    margin:0 auto;
+    text-align:left;
+}
+
+ul {
+  padding: 20px;
+  font-family:  "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 120%;
+}
+
+figcaption {
+  font-size: 100%
+}
+
+p {
+  font-family:  "Trebuchet MS", Helvetica, sans-serif;
+}
+
+** end of undefined **
+
